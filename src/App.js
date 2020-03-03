@@ -20,7 +20,7 @@ import music16 from './musics/16.wav'
 
 
 const musics = [
-music1,
+{music1,text:1},
 music2,
 music3,
 music4, 
