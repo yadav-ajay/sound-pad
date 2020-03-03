@@ -1,0 +1,34 @@
+
+.App{
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    width: 800px;
+} 
+
+
+.Main {
+    width: 170px;
+    height: 100px;
+    background-color: rgb(44, 44, 43);
+    margin: 1px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+    color:white;
+    border: 0px;
+}
+.Main:hover{
+    background-color:#11a803;
+}
+.Text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    
+}
